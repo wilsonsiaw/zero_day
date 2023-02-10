@@ -1,0 +1,3 @@
+When you type the **uname** command into vagrant after doing
+ssh the command prints basic information about the operating system.
+It will show Linux.
